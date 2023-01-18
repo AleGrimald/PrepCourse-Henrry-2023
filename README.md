@@ -1,2 +1,1 @@
-# PrepCourse-Henrry-2023
-Repositorio de prueba para la prep course de henrry
+Este proyecto es una prueba de como clonar un repositorio
